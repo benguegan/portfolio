@@ -7,6 +7,15 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## Projects
+
+### [Turession](https://github.com/benguegan/turession)
+Deploy a secure static web application in AWS 
+
+  - Languages: JavaScript, TypeScript
+  - Technologies: Ansible, Terraform, Nginx
+  - Domains: Cloud Infrastructure
+
 ## [Algorithms](https://github.com/benguegan/algorithms/tree/main)
 
 ### Depth-First Search
@@ -16,12 +25,3 @@
 ## [Challenges](https://github.com/benguegan/challenges/tree/main)
 - [Validating credit card number](https://github.com/benguegan/challenges/blob/main/validating-credit-card-number/python/validating-credit-card-number.py)
   - Languages: Python
-
-## Projects
-
-### [Turession](https://github.com/benguegan/turession)
-Deploy a secure static web application in AWS 
-
-  - Languages: JavaScript, TypeScript
-  - Technologies: Ansible, Terraform, Nginx
-  - Domains: Cloud Infrastructure
