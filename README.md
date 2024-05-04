@@ -1,6 +1,6 @@
 # Portfolio
 
-## :books: [Tech Stacks](https://github.com/benguegan/portfolio/blob/update-readme/tech-stack.md)
+## :books: [Tech Stacks](https://github.com/benguegan/portfolio/blob/main/tech-stack.md)
 
 List of technologies that I used over the years. 
 
