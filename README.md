@@ -1,4 +1,4 @@
-# :file_folder: Portfolio
+# Portfolio
 
 ## 📚 Tech Stacks :construction:
 
@@ -18,7 +18,7 @@ Deploy a Neo4j causal cluster with Docker Swarm
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-📝 Blog: https://www.graphable.ai/blog/neo4j-cluster/
+📑 Blog: https://www.graphable.ai/blog/neo4j-cluster/
 
 ### hasey :construction:
 
