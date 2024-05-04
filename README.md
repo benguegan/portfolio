@@ -1,6 +1,8 @@
 # Portfolio
 
-## 📚 Tech Stacks :construction:
+## 📚 [Tech Stacks](https://github.com/benguegan/portfolio/blob/update-readme/tech-stack.md)
+
+List of technologies that I used over the years. 
 
 ## :rocket: Projects
 
