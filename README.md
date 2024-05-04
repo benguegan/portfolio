@@ -1,6 +1,6 @@
-# Portfolio
+# :file_folder: Portfolio
 
-## Teck Stacks :construction:
+## 📚 Tech Stacks :construction:
 
 ## :rocket: Projects
 
@@ -12,13 +12,13 @@ Deploy a secure static web application in AWS
 
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-### [hoganium](https://github.com/benguegan/hoganium)
+### [hoganium](https://github.com/benguegan/hoganium) 
 
 Deploy a Neo4j causal cluster with Docker Swarm
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-Blog: https://www.graphable.ai/blog/neo4j-cluster/
+📝 Blog: https://www.graphable.ai/blog/neo4j-cluster/
 
 ### hasey :construction:
 
@@ -39,7 +39,7 @@ Develop a secure web application with React and NestJS
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-## [Algorithms](https://github.com/benguegan/algorithms/tree/main)
+## :telescope: [Algorithms](https://github.com/benguegan/algorithms/tree/main)
 
 ### Depth-First Search
 | Name  | Technologies  |
@@ -47,7 +47,7 @@ Develop a secure web application with React and NestJS
 |2D array traversal :construction: | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 
 
-## [Challenges](https://github.com/benguegan/challenges/tree/main)
+## :microscope:  [Challenges](https://github.com/benguegan/challenges/tree/main)
 
 | Name  | Technologies  |
 |--|--|
