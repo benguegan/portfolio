@@ -32,7 +32,7 @@ Deploy a Neo4j Kubernetes cluster with observability and backup
 
 Develop a secure web application with Angular and Express.js
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Passport.js](https://img.shields.io/badge/passport-dsalkf?style=for-the-badge&logo=passport&color=black)
 
 ### [spaster](https://github.com/benguegan/spaster/tree/main) :construction:
 
@@ -52,7 +52,7 @@ Develop serverless application with SST
 ### Depth-First Search 
 | Name  | Technologies  |
 |--|--|
-|2D array traversal :construction: | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+|[2D array traversal](https://github.com/benguegan/algorithms/tree/main/depth-first-search/2d-array-traversal/java) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 
 
 ## :microscope:  [Challenges](https://github.com/benguegan/challenges/tree/main)
