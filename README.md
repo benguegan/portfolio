@@ -28,13 +28,6 @@ Implement a variety of security strategies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-### [hasey](https://github.com/benguegan/quice) :construction:
-
-Deploy a Neo4j Kubernetes cluster with observability and backup
-
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![helm](https://img.shields.io/badge/helm-dsffds?style=for-the-badge&logo=helm&color=%23091C84) ![AWS](https://img.shields.io/badge/aws-adsrkf?style=for-the-badge&logo=amazonaws&logoColor=%23f90&color=%23232f3e%20) 
-
-
 ## :telescope: [Algorithms](https://github.com/benguegan/algorithms/tree/main)
 
 ### Depth-First Search 
