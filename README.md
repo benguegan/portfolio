@@ -28,6 +28,13 @@ Implement a variety of security strategies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+
+### [wyche](https://github.com/benguegan/wyche) :construction:
+
+Implement API Security 101
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spark Java](https://img.shields.io/badge/spark_java-dasdklj?style=for-the-badge&color=%23ffa64d) ![Dalesbred](https://img.shields.io/badge/dalesbred-dsfljde?style=for-the-badge&color=%23777) ![json.org](https://img.shields.io/badge/json-weroi?style=for-the-badge&logo=json&logoColor=white&color=%23000000) ![H2](https://img.shields.io/badge/h2-dsfljde?style=for-the-badge&color=%230000bb)
+
 ## :telescope: [Algorithms](https://github.com/benguegan/algorithms/tree/main)
 
 ### Depth-First Search 
