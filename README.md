@@ -44,7 +44,7 @@ Implement API Security 101
 #### Depth-First Search 
 | Name  | Technologies  |
 |--|--|
-|[2D array traversal](https://github.com/benguegan/algorithms/tree/main/graph/depth-first-search/2d-array-traversal/java) | ![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) |
+|[2D array traversal](https://github.com/benguegan/algorithms/tree/main/graph/depth-first-search/2d-array-traversal) | ![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) |
 
 
 
