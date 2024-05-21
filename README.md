@@ -26,14 +26,14 @@ Deploy a Neo4j causal cluster with Docker Swarm
 
 Implement a variety of security strategies
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) ![Spring](https://img.shields.io/badge/spring-lsdkfhj?style=flat&logo=spring&logoColor=white&color=%236DB33F)
 
 
 ### [wyche](https://github.com/benguegan/wyche) :construction:
 
 Implement API Security 101
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spark Java](https://img.shields.io/badge/spark_java-dasdklj?style=for-the-badge&color=%23ffa64d) ![Dalesbred](https://img.shields.io/badge/dalesbred-dsfljde?style=for-the-badge&color=%23777) ![json.org](https://img.shields.io/badge/json-weroi?style=for-the-badge&logo=json&logoColor=white&color=%23000000) ![H2](https://img.shields.io/badge/h2-dsfljde?style=for-the-badge&color=%230000bb)
+![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) ![Spark Java](https://img.shields.io/badge/spark_java-dasdklj?style=for-the-badge&color=%23ffa64d) ![Dalesbred](https://img.shields.io/badge/dalesbred-dsfljde?style=for-the-badge&color=%23777) ![json.org](https://img.shields.io/badge/json-weroi?style=for-the-badge&logo=json&logoColor=white&color=%23000000) ![H2](https://img.shields.io/badge/h2-dsfljde?style=for-the-badge&color=%230000bb)
 
 ## :telescope: [Algorithms](https://github.com/benguegan/algorithms/tree/main)
 
@@ -41,12 +41,12 @@ Implement API Security 101
 #### Breadth-First Search 
 | Name  | Technologies  |
 |--|--|
-|[Snake and ladders game](https://github.com/benguegan/algorithms/tree/main/graph/breadth-first-search/snake-and-ladders) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+|[Snake and ladders game](https://github.com/benguegan/algorithms/tree/main/graph/breadth-first-search/snake-and-ladders) | ![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) |
 
 #### Depth-First Search 
 | Name  | Technologies  |
 |--|--|
-|[2D array traversal](https://github.com/benguegan/algorithms/tree/main/graph/depth-first-search/2d-array-traversal/java) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+|[2D array traversal](https://github.com/benguegan/algorithms/tree/main/graph/depth-first-search/2d-array-traversal/java) | ![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) |
 
 
 
