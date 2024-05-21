@@ -22,14 +22,14 @@ Deploy a Neo4j causal cluster with Docker Swarm
 
 ### [quice](https://github.com/benguegan/quice) :construction:
 
-Implement a variety of security strategies
+Implement a variety of security strategies with Java Spring
 
 ![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) ![Spring](https://img.shields.io/badge/spring-lsdkfhj?style=flat&logo=spring&logoColor=white&color=%236DB33F)
 
 
 ### [wyche](https://github.com/benguegan/wyche) :construction:
 
-Implement API Security 101
+Implement API Security 101 with Spark Java
 
 ![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) ![Spark Java](https://img.shields.io/badge/spark_java-lsdkfhj?style=flat&color=%23e88300) ![Dalesbred](https://img.shields.io/badge/dalesbred-lsdkfhj?style=flat&color=%23777) ![json.org](https://img.shields.io/badge/json-lsdkfhj?style=flat&logo=json&color=%23000000) ![H2](https://img.shields.io/badge/h2-lsdkfhj?style=flat&color=%230645ad)
 
