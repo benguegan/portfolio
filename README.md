@@ -37,10 +37,17 @@ Implement API Security 101
 
 ## :telescope: [Algorithms](https://github.com/benguegan/algorithms/tree/main)
 
-### Depth-First Search 
+### Graph 
+#### Breadth-First Search 
 | Name  | Technologies  |
 |--|--|
-|[2D array traversal](https://github.com/benguegan/algorithms/tree/main/depth-first-search/2d-array-traversal/java) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+|[Snake and ladders game](https://github.com/benguegan/algorithms/tree/main/graph/breadth-first-search/snake-and-ladders) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+
+#### Depth-First Search 
+| Name  | Technologies  |
+|--|--|
+|[2D array traversal](https://github.com/benguegan/algorithms/tree/main/graph/depth-first-search/2d-array-traversal/java) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+
 
 
 ## :microscope:  [Challenges](https://github.com/benguegan/challenges/tree/main)
