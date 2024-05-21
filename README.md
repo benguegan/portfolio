@@ -10,17 +10,15 @@ List of technologies that I used over the years.
 
 Deploy a secure static web application in AWS 
 
-![TypeScript](https://img.shields.io/badge/typescript-lsdkfhj?style=flat&logo=typescript&logoColor=white&color=%233178C6) ![Ansible](https://img.shields.io/badge/ansible-lsdkfhj?style=flat&logo=ansible&logoColor=white&color=black) ![Terraform](https://img.shields.io/badge/terraform-lsdkfhj?style=flat&logo=terraform&logoColor=white&color=%23844FBA) ![Nginx](https://img.shields.io/badge/nginx-lsdkfhj?style=flat&logo=nginx&logoColor=white&color=%23009639) ![AWS](https://img.shields.io/badge/aws-lsdkfhj?style=flat&logo=amazonaws&logoColor=%23FF9900&color=%23232F3E) 
-
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-lsdkfhj?style=flat&logo=typescript&logoColor=white&color=%233178C6) ![Ansible](https://img.shields.io/badge/ansible-lsdkfhj?style=flat&logo=ansible&logoColor=white&color=black) ![Terraform](https://img.shields.io/badge/terraform-lsdkfhj?style=flat&logo=terraform&logoColor=white&color=%23844FBA) ![Nginx](https://img.shields.io/badge/nginx-lsdkfhj?style=flat&logo=nginx&logoColor=white&color=%23009639) ![AWS](https://img.shields.io/badge/aws-lsdkfhj?style=flat&logo=amazonaws&logoColor=%23FF9900&color=%23232F3E) ![Jinja](https://img.shields.io/badge/jinja-lsdkfhj?style=flat&logo=jinja&logoColor=black&color=white)
 
 ### [hoganium](https://github.com/benguegan/hoganium) 
 
 Deploy a Neo4j causal cluster with Docker Swarm
 
-![Docker](https://img.shields.io/badge/docker-lsdkfhj?style=flat&logo=docker&logoColor=white&color=%232496ED) ![Neo4J](https://img.shields.io/badge/neo4j-lsdkfhj?style=flat&logo=neo4j&logoColor=white&color=%234581C3)
-
 :book: Blog: https://www.graphable.ai/blog/neo4j-cluster/
+
+![Docker](https://img.shields.io/badge/docker-lsdkfhj?style=flat&logo=docker&logoColor=white&color=%232496ED) ![Neo4J](https://img.shields.io/badge/neo4j-lsdkfhj?style=flat&logo=neo4j&logoColor=white&color=%234581C3)
 
 ### [quice](https://github.com/benguegan/quice) :construction:
 
@@ -33,7 +31,7 @@ Implement a variety of security strategies
 
 Implement API Security 101
 
-![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) ![Spark Java](https://img.shields.io/badge/spark_java-dasdklj?style=for-the-badge&color=%23ffa64d) ![Dalesbred](https://img.shields.io/badge/dalesbred-dsfljde?style=for-the-badge&color=%23777) ![json.org](https://img.shields.io/badge/json-weroi?style=for-the-badge&logo=json&logoColor=white&color=%23000000) ![H2](https://img.shields.io/badge/h2-dsfljde?style=for-the-badge&color=%230000bb)
+![Java](https://img.shields.io/badge/java-lsdkfhj?style=flat&logo=openjdk&color=%23ff9800) ![Spark Java](https://img.shields.io/badge/spark_java-lsdkfhj?style=flat&color=%23e88300) ![Dalesbred](https://img.shields.io/badge/dalesbred-lsdkfhj?style=flat&color=%23777) ![json.org](https://img.shields.io/badge/json-lsdkfhj?style=flat&logo=json&color=%23000000) ![H2](https://img.shields.io/badge/h2-lsdkfhj?style=flat&color=%230645ad)
 
 ## :telescope: [Algorithms](https://github.com/benguegan/algorithms/tree/main)
 
