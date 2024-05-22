@@ -71,9 +71,6 @@ Implement API Security 101 with Spark Java
 
 ## Tech Stacks
 
-List of technologies that I used over the years. 
-
-
 ### Languages & Frameworks
 
 #### Languages
