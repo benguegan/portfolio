@@ -100,5 +100,5 @@ Implement API Security 101 with Spark Java
 
 ### Techniques
 
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-sdefgotih?color=white) ![TDD](https://img.shields.io/badge/Test_Driven_Development_(TDD)-sdefgotih?color=white) ![DDD](https://img.shields.io/badge/Domain_Driven_Design_(DDD)-sdefgotih?color=white) ![DevOps](https://img.shields.io/badge/DevOps-sdefgotih?color=white) ![Agile Cyrstal Clear](https://img.shields.io/badge/Agile_Crystal_Clear-sdefgotih?color=white) ![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-sdefgotih?color=white) ![Material Design](https://img.shields.io/badge/Material_Design-sdefgotih?color=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-sdefgotih?color=white) ![Architectural-Style Patterns](https://img.shields.io/badge/Architectural_Style_Patterns-sdefgotih?color=white) ![TDD](https://img.shields.io/badge/Test_Driven_Development_(TDD)-sdefgotih?color=white) ![DDD](https://img.shields.io/badge/Domain_Driven_Design_(DDD)-sdefgotih?color=white) ![DevOps](https://img.shields.io/badge/DevOps-sdefgotih?color=white) ![Agile Cyrstal Clear](https://img.shields.io/badge/Agile_Crystal_Clear-sdefgotih?color=white) ![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-sdefgotih?color=white) ![Material Design](https://img.shields.io/badge/Material_Design-sdefgotih?color=white)
 
