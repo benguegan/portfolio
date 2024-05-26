@@ -17,6 +17,12 @@ Deploy a Neo4j causal cluster with Docker Swarm
 
 ![Docker](https://img.shields.io/badge/Docker-lsdkfhj?style=flat&logo=docker&logoColor=white&color=%232496ED) ![Neo4J](https://img.shields.io/badge/Neo4j-lsdkfhj?style=flat&logo=neo4j&logoColor=white&color=%234581C3)
 
+### [weather](https://github.com/benguegan/weather) :construction:
+
+Develop a Weather API
+
+![TypeScript](https://img.shields.io/badge/TypeScript-lsdkfhj?style=flat&logo=typescript&logoColor=white&color=%233178C6) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/Nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+
 ### [quice](https://github.com/benguegan/quice) :construction:
 
 Implement a variety of security strategies with Java Spring
