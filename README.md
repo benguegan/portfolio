@@ -21,7 +21,7 @@ Deploy a Neo4j causal cluster with Docker Swarm
 
 Develop a Weather API
 
-![TypeScript](https://img.shields.io/badge/TypeScript-lsdkfhj?style=flat&logo=typescript&logoColor=white&color=%233178C6) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/Nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-lsdkfhj?style=flat&logo=typescript&logoColor=white&color=%233178C6) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/Nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white)
 
 ### [quice](https://github.com/benguegan/quice) :construction:
 
